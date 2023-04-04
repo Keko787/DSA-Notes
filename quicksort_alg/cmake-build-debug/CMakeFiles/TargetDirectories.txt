@@ -1,0 +1,3 @@
+C:/Users/kskos/CLionProjects/quicksort_alg/cmake-build-debug/CMakeFiles/quicksort_alg.dir
+C:/Users/kskos/CLionProjects/quicksort_alg/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kskos/CLionProjects/quicksort_alg/cmake-build-debug/CMakeFiles/rebuild_cache.dir

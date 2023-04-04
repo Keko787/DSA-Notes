@@ -1,0 +1,3 @@
+C:/Users/kskos/CLionProjects/treeLab/cmake-build-debug/CMakeFiles/treeLab.dir
+C:/Users/kskos/CLionProjects/treeLab/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kskos/CLionProjects/treeLab/cmake-build-debug/CMakeFiles/rebuild_cache.dir

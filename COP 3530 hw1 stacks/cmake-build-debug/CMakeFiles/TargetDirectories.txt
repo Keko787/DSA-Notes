@@ -1,0 +1,3 @@
+C:/Users/kskos/CLionProjects/COP 3530 hw1 stacks/cmake-build-debug/CMakeFiles/COP_3530_hw1_stacks.dir
+C:/Users/kskos/CLionProjects/COP 3530 hw1 stacks/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kskos/CLionProjects/COP 3530 hw1 stacks/cmake-build-debug/CMakeFiles/rebuild_cache.dir
